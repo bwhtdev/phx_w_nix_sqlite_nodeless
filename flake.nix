@@ -18,6 +18,7 @@
             elixir
             sqlite
             tailwindcss
+            watchman
             inotify-tools
           ];
           shellHook = ''
