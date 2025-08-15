@@ -16,6 +16,8 @@ defmodule PhxWNixSqliteNodelessWeb.CoreComponents do
       we build on. You will use it for layout, sizing, flexbox, grid, and
       spacing.
 
+    * [Alpine.js](https://alpinejs.dev) - the magical new JavaScript framework
+
     * [Heroicons](https://heroicons.com) - see `icon/1` for usage.
 
     * [Phoenix.Component](https://hexdocs.pm/phoenix_live_view/Phoenix.Component.html) -
