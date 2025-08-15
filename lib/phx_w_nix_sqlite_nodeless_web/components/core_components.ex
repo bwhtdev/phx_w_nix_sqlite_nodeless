@@ -8,15 +8,14 @@ defmodule PhxWNixSqliteNodelessWeb.CoreComponents do
   with doc strings and declarative assigns. You may customize and style
   them in any way you want, based on your application growth and needs.
 
-  The foundation for styling is Tailwind CSS, a utility-first CSS framework,
-  augmented with daisyUI, a Tailwind CSS plugin that provides UI components
-  and themes. Here are useful references:
+  The foundation for styling is Tailwind CSS, a utility-first CSS framework.
+  Here are useful references:
 
     * [Tailwind CSS](https://tailwindcss.com) - the foundational framework
       we build on. You will use it for layout, sizing, flexbox, grid, and
       spacing.
 
-    * [Alpine.js](https://alpinejs.dev) - the magical new JavaScript framework
+    * [Alpine.js](https://alpinejs.dev) - your new lightweight JavaScript framework
 
     * [Heroicons](https://heroicons.com) - see `icon/1` for usage.
 

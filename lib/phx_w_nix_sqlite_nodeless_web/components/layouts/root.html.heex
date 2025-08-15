@@ -31,13 +31,6 @@
     </script>
   </head>
   <body>
-    <div x-data="{ open: false }">
-      <button class='text-3xl bg-cyan-200 rounded-xl p-10' @click="open = true">Expand</button>
-  
-      <span x-show="open">
-        Content...
-      </span>
-    </div>
     {@inner_content}
   </body>
 </html>
