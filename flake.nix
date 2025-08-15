@@ -16,7 +16,7 @@
           buildInputs = with pkgs; [
             erlang
             elixir
-            sqlite3
+            sqlite
             tailwindcss
             inotify-tools
           ];
