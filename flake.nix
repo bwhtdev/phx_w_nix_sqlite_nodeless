@@ -18,6 +18,7 @@
             elixir
             sqlite3
             tailwindcss
+            inotify-tools
           ];
           shellHook = ''
             export ERL_AFLAGS="-kernel shell_history enabled"
