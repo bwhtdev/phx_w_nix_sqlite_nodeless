@@ -12,9 +12,6 @@ defmodule PhxWNixSqliteNodelessWeb.CoreComponents do
   augmented with daisyUI, a Tailwind CSS plugin that provides UI components
   and themes. Here are useful references:
 
-    * [daisyUI](https://daisyui.com/docs/intro/) - a good place to get
-      started and see the available components.
-
     * [Tailwind CSS](https://tailwindcss.com) - the foundational framework
       we build on. You will use it for layout, sizing, flexbox, grid, and
       spacing.
